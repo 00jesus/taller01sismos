@@ -21,7 +21,7 @@ public class Main {
             if (resp == 4) contarSismosMayores5(sismos);
             if (resp == 5) enviarSMS(sismos);
             else {
-                System.out.println(" ");
+                System.out.println(" "); //solo espacio
             }
             }
         }
